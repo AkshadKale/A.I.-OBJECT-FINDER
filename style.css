@@ -18,3 +18,11 @@
     border: 2px solid black;
     border-radius: 5px;
 }
+
+canvas{
+    border: 5px solid gray;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 150px;
+}
+
